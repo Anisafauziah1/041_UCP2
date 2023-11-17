@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ucp2</string>
+    <string name="ds1">Dosen Pembimbing 1</string>
+    <string name="ds2">Dosen Pembimbung 2</string>
+    <string name="next_button">Next</string>
+    <string name="back_button">Back</string>
+    <string name="submit_button">Submit</string>
+</resources>
